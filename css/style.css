@@ -1,0 +1,15 @@
+
+.mini-navbar {
+  background-color: #f8f9fa;
+  padding: 8px;
+}
+
+.mini-navbar .navbar-item {
+  margin-right: 16px;
+  color: #000;
+  text-decoration: none;
+}
+
+.mini-navbar .navbar-item i {
+  margin-right: 4px;
+}
